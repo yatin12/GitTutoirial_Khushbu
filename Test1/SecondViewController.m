@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
     NSLog(@"Hello India");
+    NSLog(@"Hello khushbu");
     //Hello WOrld
     //RInkal PC
 }
